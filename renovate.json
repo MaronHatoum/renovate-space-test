@@ -1,0 +1,7 @@
+{
+	"packageRules": [
+		{
+			"groupName": "all deps"
+		}
+	]
+}
