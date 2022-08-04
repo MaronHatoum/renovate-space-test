@@ -11,7 +11,7 @@
 	],
 	"require": {
 		"enormail/enormail-php-api": "dev-master",
-		"mailerlite/mailerlite-api-v2-php-sdk": "^0.2.1",
+		"mailerlite/mailerlite-api-v2-php-sdk": "^0.3.0",
 		"paypal/rest-api-sdk-php": "^1.12",
 		"stripe/stripe-php": "^6.2",
 		"activecampaign/api-php": "^2.0",
@@ -20,7 +20,7 @@
 		"getresponse/getresponse": "^0.0.2",
 		"drewm/mailchimp-api": "^v2.2.4",
 		"google/recaptcha": "^1.1",
-		"leafo/scssphp": "^0.7.1",
+		"leafo/scssphp": "^0.8.0",
 		"stil/gd-text": "^1.1",
 		"authorizenet/authorizenet": "^1.9",
 		"yahnis-elsts/plugin-update-checker": "^4.2",
